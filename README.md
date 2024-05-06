@@ -67,7 +67,7 @@ Download PakalDigitalSolutions with github
 
 Web page demo
 
-http://localhost/PakalDigitalSolutions/
+http://localhost/deborahg_cocinacreativa/
 
 
 ![Logo](https://locallity-logos.s3.us-west-1.amazonaws.com/432983124_386581007654401_305044721631754754_n.jpg)
