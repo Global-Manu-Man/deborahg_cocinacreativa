@@ -12,7 +12,7 @@ We transform ideas into exceptional digital experiences. Your user-centered web 
 
  - [ Instructions to download XAMPP ](https://www.apachefriends.org/index.html)
 
- - [Instructions to download project Github ](https://github.com/Global-Manu-Man/PakalDigitalSolutions.git)
+ - [Instructions to download project Github ](https://github.com/Global-Manu-Man/deborahg_cocinacreativa.git)
 
 
 ## Installation
@@ -38,7 +38,7 @@ Serving your HTML project:
 
 - Open your web browser and navigate to the following URL: http://localhost/
 - If you have placed your HTML project in the htdocs folder within the XAMPP installation directory (usually C:\xampp\htdocs on Windows), you can access your project by typing the relative path to htdocs after localhost/.
-- For example, if your HTML project is located at C:\xampp\htdocs\PakalDigitalSolutions, you can access it in your browser by typing http://localhost
+- For example, if your HTML project is located at C:\xampp\htdocs\deborahg_cocinacreativa, you can access it in your browser by typing http://localhost
 
 ![Logo](https://locallity-logos.s3.us-west-1.amazonaws.com/EN_XAMPP_Control_Panel_1.png)
 
@@ -56,12 +56,21 @@ Download PakalDigitalSolutions with github
 
   cd C:\xampp\htdocs
 
-  git clone https://github.com/Global-Manu-Man/PakalDigitalSolutions.git
+  git clone https://github.com/Global-Manu-Man/deborahg_cocinacreativa.git
 
-  cd PakalDigitalSolutions
+  cd deborahg_cocinacreativa
 
 
 ```
+
+## Demo
+
+Web page demo
+
+http://localhost/PakalDigitalSolutions/
+
+
+![Logo](https://locallity-logos.s3.us-west-1.amazonaws.com/432983124_386581007654401_305044721631754754_n.jpg)
 
 
 
